@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "@hot-loader/react-dom": "16.8.6",
-    "axios": "0.18.0",
+    "axios": "0.21.1",
     "babel-jest": "24.7.1",
     "connected-react-router": "6.4.0",
     "crassa": "0.7.3",
